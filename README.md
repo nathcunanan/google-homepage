@@ -1,1 +1,1 @@
-This will be my first ruby project with the help of https://www.odinproject.com. This website really guides you from scratch on how you can become a successful web developer.
+This will be my first ruby project with the help of https://www.theodinproject.com. This website really guides you from scratch on how you can become a successful web developer.
